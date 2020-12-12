@@ -16,7 +16,7 @@ The Colorado election commission has requested the following outputs:
 
 ## Election Audit Results 
 
-![election analysis screenshot.jpg] (https://github.com/TamaraGR/Election_Analysis/blob/main/election%20analysis%20screenshot.jpg)
+![election analysis screenshot](https://github.com/TamaraGR/Election_Analysis/blob/main/election%20analysis%20screenshot.jpg)
 *Screenshot of the Election Analysis Results*
 
 - [x] The number of total votes cast in this congressional election is 369,711.
