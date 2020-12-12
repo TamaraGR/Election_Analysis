@@ -16,8 +16,9 @@ The Colorado election commission has requested the following outputs:
 
 ## Election Audit Results 
 
+*The election analysis results are presented in the below screenshot and the bulletpoints underneath it.*
+
 ![election analysis screenshot](https://github.com/TamaraGR/Election_Analysis/blob/main/election%20analysis%20screenshot.jpg)
-*Screenshot of the Election Analysis Results*
 
 - [x] The number of total votes cast in this congressional election is 369,711.
 - [x] The Jefferson County received 10.5% of the votes (38,855), Denver received 82.8% (306,055) and Arapahoe received 6.7% (24,801). 
