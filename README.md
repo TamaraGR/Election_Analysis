@@ -26,7 +26,12 @@ The Colorado election commission has requested the following outputs:
 - [x] Candidate Charles Casper Stockham received 23.0% of the votes (85,213), Diana DeGette received 73.8% (272,892) and canddiate Raymon Anthony Doane received 3.1% (11,606). 
 - [x] Candidate Diana DeGette won the election with 73.8% (272,892). 
 
+## Elections Business Proposition 
 
+One might think that this script is only good for three countries and three candidates and doesn't apply to real life electoral challenges. Even if that was the case (the code working only for three counties), the state of Delaware only had three counties, and we could sell this script to them. However, the way the current script is written, it can work with as many counties and candidates as needed (even with the state of Texas which has over 200 counties), mostly because it has the following lines of code: 
 
+![code_snippet1](https://github.com/TamaraGR/Election_Analysis/blob/main/code_snippet1.jpg)
 
+At the same time, the current script doesn't provide us with the analysis regarding each candidate's statistics in each county, and that could be another useful piece of information, if we want to suggest this script for elections elsewhere. In the current data sample we only have three candidates and three counties, but we need to have a script that can calculate such information for various numbers of counties and candidates. To not be repetitive we would need to declare additional variables, write a for loop to get the number of votes per each canddiate per each county, calculate the percentages, print the results and write them into the text file. 
 
+It must also be noted that there are database limitations in this case, and in the future the suggestion is to add to the database more details, such as rural/urban population and other demographics. In large cities like, for example, New York, where aside from counties there are also boroughs, a database that relies only on counties' information, will not be sufficient. The last note is that this script and this database account for popular vote only and not for the electoral vote.  
