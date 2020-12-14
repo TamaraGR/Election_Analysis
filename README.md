@@ -19,7 +19,7 @@ The Colorado election commission has requested the following outputs:
 ## Analysis Resources 
 
  - [x] Analysis code can be found here. [PyPoll_Challenge.py](https://github.com/TamaraGR/Election_Analysis/blob/main/Code/PyPoll_Challenge.py)
- - [x] Data source is [election_results.csv] (https://github.com/TamaraGR/Election_Analysis/blob/main/Resources/election_results.csv)
+ - [x] Data source is [election_results.csv](https://github.com/TamaraGR/Election_Analysis/blob/main/Resources/election_results.csv)
  - [x] Used software: Python 3.7.6, Visual Studio Code.
 
 ## Election Audit Results 
