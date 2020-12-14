@@ -16,6 +16,12 @@ The Colorado election commission has requested the following outputs:
 - [ ] Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
 - [ ] Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
 
+## Analysis Resources 
+
+ - [x] Analysis code can be found here. [PyPoll_Challenge.py](https://github.com/TamaraGR/Election_Analysis/blob/main/Code/PyPoll_Challenge.py)
+ - [x] Data source is [election_results.csv] (https://github.com/TamaraGR/Election_Analysis/blob/main/Resources/election_results.csv)
+ - [x] Used software: Python 3.7.6, Visual Studio Code.
+
 ## Election Audit Results 
 
 *The election analysis results are presented in the below screenshot and the bulletpoints underneath it.*
