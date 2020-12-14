@@ -4,7 +4,7 @@
 
 This is an analysis of the Colorado election results from the Arapahoe, Denver and Jefferson counties for the election commission . The analysis is looking into a number of specific outputs as well as a business proposal for the election commission regarding potentially using this script (with modifications) for any election. The analysis also looks into the data limitations and provides suggestions for potential use of this script outside of the Colorado state. 
 
-![counties](https://github.com/TamaraGR/Election_Analysis/blob/main/counties.jpg
+![counties](https://github.com/TamaraGR/Election_Analysis/blob/main/counties.jpg)
 
 ## Requested Analysis Outputs 
 
